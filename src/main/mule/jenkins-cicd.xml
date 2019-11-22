@@ -18,7 +18,7 @@ output application/json
 ---
 {
 	status: "success",
-	message: "return status successfull"
+	message: "return status success"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
